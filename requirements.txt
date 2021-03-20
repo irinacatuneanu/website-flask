@@ -39,7 +39,7 @@ identify==1.4.8
 idna==2.8
 inflection==0.3.1
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 kivy-deps.glew==0.1.12
 kivy-deps.sdl2==0.1.23
 lxml==4.4.2
